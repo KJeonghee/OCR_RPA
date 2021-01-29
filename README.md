@@ -6,7 +6,7 @@
 * 프로젝트 수행 기간 : 2020년 8월 말 2주간
 * 팀원 : 김정희, ㄱㅈㅅ, ㄱㅎㅈ, ㅈㅅㄹ, ㅇㅇㅈ
 
-> 코드는 정리 후 업로드 예정
+> 코드는 정리 후 업로드 예정 [Notion에는 upload 완료]
 
 ------------
 > # 프로그램 흐름과 실행 화면
@@ -20,3 +20,8 @@
 ![77](https://user-images.githubusercontent.com/48744645/106264601-35e1a300-6269-11eb-8e7b-26cde8b4e8f4.PNG)
 ![88](https://user-images.githubusercontent.com/48744645/106264602-367a3980-6269-11eb-86da-925be754dca8.PNG)
 ![99](https://user-images.githubusercontent.com/48744645/106264607-367a3980-6269-11eb-941a-3076f9a2cecd.PNG)
+
+
+------------
+> # 발표자료
+[가창력팀_한국에너지공단_발표자료 pdf](https://github.com/KJeonghee/OCR_RPA/files/5893283/_._.pdf.pdf)

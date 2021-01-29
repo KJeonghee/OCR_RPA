@@ -9,7 +9,7 @@
 > 코드는 정리 후 업로드 예정
 
 ------------
-> # 프로그램 흐름과 실행 화면 #
+> # 프로그램 흐름과 실행 화면
 
 ![11](https://user-images.githubusercontent.com/48744645/106264553-25312d00-6269-11eb-918f-5614e5d4246c.PNG)
 ![22](https://user-images.githubusercontent.com/48744645/106264568-29f5e100-6269-11eb-8033-7c4fae7f6a5b.PNG)
